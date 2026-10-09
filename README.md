@@ -1,16 +1,41 @@
-## Hi there
+# Mohit
 
-<!--
-**dswithmohit/dswithmohit** is a special repository because its README.md (this file) appears on your GitHub profile.
+3rd year B.Tech student in Computer Science (Data Science) at MIT Bengaluru.
 
-Here are some ideas to get you started:
+Currently exploring data science, machine learning, and building practical projects to strengthen my skills.
 
-- I’m currently working on ...
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- I’m looking for help with ...
-- Ask me about ...
-- How to reach me: ...
-- Pronouns: ...
-- Fun fact: ...
--->
+---
+
+### Projects
+
+**[Dynamic Pricing Engine](https://github.com/dswithmohit/Dynamic-pricing-engine)**  
+End-to-end pricing model using XGBoost and price elasticity analysis, with a Streamlit dashboard.
+
+**[E-commerce Recommendation System](https://github.com/dswithmohit/ecommerce-recsys)**  
+Hybrid recommendation system using TF-IDF and collaborative filtering.
+
+**[Portfolio Optimization](https://github.com/dswithmohit/portfolio-optimization-markowitz)**  
+Implementation of Modern Portfolio Theory for asset allocation.
+
+**[Crypto Sentiment Analysis](https://github.com/dswithmohit/crypto-trader-sentiment-analysis)**  
+Analysis of how market sentiment affects trader performance using real trade data.
+
+**[Customer Churn Analysis](https://github.com/dswithmohit/telco-customer-churn-eda)**  
+Exploratory data analysis on customer churn.
+
+**[ETL Pipeline](https://github.com/dswithmohit/etl_yfinance_to_mysql.py)**  
+Automated pipeline to extract financial data and load it into MySQL.
+
+---
+
+### Currently Learning
+
+Python, SQL, Pandas, Scikit-learn, XGBoost, Streamlit, Git
+
+---
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/mohit-3b7bbb320)
+- [Kaggle](https://www.kaggle.com/mohitmohit1221)
+- [Portfolio](https://www.datascienceportfol.io/mohitmitblr2024)
