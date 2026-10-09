@@ -1,8 +1,13 @@
+<div align="center">
+  
 # Mohit
 
-3rd year B.Tech student in Computer Science (Data Science) at MIT Bengaluru.
+**3rd year B.Tech student in Computer Science (Data Science)**  
+MIT Bengaluru
 
-Currently exploring data science, machine learning, and building practical projects to strengthen my skills.
+Currently exploring data science and machine learning through practical projects.
+
+</div>
 
 ---
 
@@ -30,12 +35,10 @@ Automated pipeline to extract financial data and load it into MySQL.
 
 ### Currently Learning
 
-Python, SQL, Pandas, Scikit-learn, XGBoost, Streamlit, Git
+`Python` `SQL` `Pandas` `Scikit-learn` `XGBoost` `Streamlit` `Git`
 
 ---
 
 ### Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mohit-3b7bbb320)
-- [Kaggle](https://www.kaggle.com/mohitmohit1221)
-- [Portfolio](https://www.datascienceportfol.io/mohitmitblr2024)
+[LinkedIn](https://www.linkedin.com/in/mohit-3b7bbb320) · [Kaggle](https://www.kaggle.com/mohitmohit1221) · [Portfolio](https://www.datascienceportfol.io/mohitmitblr2024)
