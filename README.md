@@ -4,7 +4,7 @@
 
 **B.Tech CSE (Data Science)** · MIT Bengaluru · 3rd Year
 
-Building practical projects in data science and machine learning.
+Building end-to-end systems in data science, machine learning, and quantitative analysis.
 
 </div>
 
@@ -17,13 +17,13 @@ Building practical projects in data science and machine learning.
 <td width="50%">
 
 **[SAR Flood Detection System](https://github.com/dswithmohit/SAR-Flood-Detection)**  
-Geospatial classifier using Random Forest on Sentinel-1 SAR data (91% F1). Deployed on Streamlit.
+Geospatial Random Forest classifier on Sentinel-1 SAR data (91% F1). Full preprocessing pipeline + Streamlit deployment.
 
 </td>
 <td width="50%">
 
 **[Dynamic Pricing Engine](https://github.com/dswithmohit/Dynamic-pricing-engine)**  
-XGBoost demand forecasting + elasticity-based price optimization with A/B simulation.
+XGBoost demand forecasting + elasticity-based price optimization with bootstrapped A/B simulation (+10.8% uplift).
 
 </td>
 </tr>
@@ -31,13 +31,13 @@ XGBoost demand forecasting + elasticity-based price optimization with A/B simula
 <td width="50%">
 
 **[E-commerce Recommendation Engine](https://github.com/dswithmohit/ecommerce-recsys)**  
-Hybrid recommender with TF-IDF, BERT embeddings, and ALS collaborative filtering.
+Hybrid recommender (TF-IDF + BERT + ALS) with proper de-biasing and statistical evaluation.
 
 </td>
 <td width="50%">
 
-**[Portfolio Optimization](https://github.com/dswithmohit/portfolio-optimization-markowitz)**  
-Modern Portfolio Theory implementation for efficient frontier and asset allocation.
+**[Markowitz Portfolio Optimizer](https://github.com/dswithmohit/portfolio-optimization-markowitz)**  
+Monte Carlo simulation + mean-variance optimization to construct the efficient frontier.
 
 </td>
 </tr>
