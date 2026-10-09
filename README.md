@@ -2,9 +2,9 @@
 
 # Hi, I'm Mohit 👋
 
-**Data Scientist | Machine Learning | Quantitative Finance**
+**3rd Year Student | Exploring Data Science & Machine Learning**
 
-Building end-to-end ML systems that turn data into measurable business impact — from dynamic pricing & recommendation engines to portfolio optimization and crypto sentiment analysis.
+Passionate about learning how data and ML can solve real problems. Currently building projects to strengthen my skills in Python, data analysis, and machine learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-3b7bbb320/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohitmohit1221)
@@ -15,32 +15,22 @@ Building end-to-end ML systems that turn data into measurable business impact �
 
 ---
 
-### 🔭 Featured Projects
+### 🔭 Projects I'm Working On
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[Dynamic Pricing Engine](https://github.com/dswithmohit/Dynamic-pricing-engine)** | ML-driven pricing with XGBoost, price elasticity modeling & A/B simulation. **+10.8% revenue uplift**. Live Streamlit app. | Python, XGBoost, Streamlit |
-| **[E-commerce Recommendation System](https://github.com/dswithmohit/ecommerce-recsys)** | Hybrid recommender using TF-IDF + ALS collaborative filtering with offline ranking evaluation. | Python, Spark/ALS, NLP |
-| **[Portfolio Optimization (Markowitz)](https://github.com/dswithmohit/portfolio-optimization-markowitz)** | Modern Portfolio Theory implementation for efficient frontier & optimal asset allocation. | Python, NumPy, SciPy |
-| **[Crypto Trader Sentiment Analysis](https://github.com/dswithmohit/crypto-trader-sentiment-analysis)** | Impact of Fear & Greed Index on trader performance using real Hyperliquid trade data. | Python, Pandas, Visualization |
-| **[Telco Customer Churn EDA](https://github.com/dswithmohit/telco-customer-churn-eda)** | In-depth exploratory analysis of customer churn drivers with actionable insights. | Python, Seaborn, Plotly |
-| **[ETL Pipeline (yfinance → MySQL)](https://github.com/dswithmohit/etl_yfinance_to_mysql.py)** | Automated ETL for financial market data into a structured database. | Python, yfinance, MySQL |
+| Project | What I Learned |
+|---------|----------------|
+| **[Dynamic Pricing Engine](https://github.com/dswithmohit/Dynamic-pricing-engine)** | Built an end-to-end pricing model with XGBoost, elasticity analysis, and a Streamlit dashboard |
+| **[E-commerce Recommendation System](https://github.com/dswithmohit/ecommerce-recsys)** | Hybrid recommender using TF-IDF + collaborative filtering |
+| **[Portfolio Optimization](https://github.com/dswithmohit/portfolio-optimization-markowitz)** | Applied Modern Portfolio Theory in Python |
+| **[Crypto Sentiment Analysis](https://github.com/dswithmohit/crypto-trader-sentiment-analysis)** | Analyzed how market sentiment affects trader performance |
+| **[Customer Churn EDA](https://github.com/dswithmohit/telco-customer-churn-eda)** | Exploratory data analysis on customer churn |
+| **[ETL Pipeline](https://github.com/dswithmohit/etl_yfinance_to_mysql.py)** | Automated data pipeline from yfinance to MySQL |
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Currently Learning
 
-**Languages & Core**  
-`Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn`
-
-**Machine Learning**  
-`XGBoost` · `LightGBM` · `ALS / Collaborative Filtering` · `Feature Engineering` · `A/B Testing`
-
-**Data & Visualization**  
-`Streamlit` · `Plotly` · `Matplotlib` · `Seaborn` · `Jupyter`
-
-**Tools & Infra**  
-`Git` · `MySQL` · `Kaggle` · `Docker` (learning)
+`Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `Streamlit` · `Git`
 
 ---
 
@@ -58,12 +48,11 @@ Building end-to-end ML systems that turn data into measurable business impact �
 - LinkedIn → [mohit-3b7bbb320](https://www.linkedin.com/in/mohit-3b7bbb320/)
 - Kaggle → [mohitmohit1221](https://www.kaggle.com/mohitmohit1221)
 - Portfolio → [datascienceportfol.io](https://www.datascienceportfol.io/mohitmitblr2024)
-- Email → mohitmmm77gc@gmail.com
 
 ---
 
 <div align="center">
 
-✨ Always open to interesting data science & quant problems — feel free to reach out!
+Thanks for visiting! Always open to learning and connecting with fellow students ✨
 
 </div>
