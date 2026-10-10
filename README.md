@@ -4,7 +4,7 @@
 
 **B.Tech CSE (Data Science)** · MIT Bengaluru · 3rd Year
 
-Building end-to-end systems in data science, machine learning, and quantitative analysis.
+Building end-to-end systems in data science and machine learning .
 
 </div>
 
